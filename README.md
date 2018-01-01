@@ -11,4 +11,4 @@ https://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_For_Kepler
 
 Other links for the book are available on the book page at <a href="http://wickedlysmart.com/head-first-design-patterns/">wickedlysmart.com</a>.
 
-# 备注说明：改代码为forked的代码，学习使用。
+# 备注说明：该代码为forked的代码，学习使用。
